@@ -41,5 +41,5 @@
 
 
 ### 🌟 CREADOR
-[![GataNina-Li](https://e.top4top.io/p_2690qa7fy0.jpg?size=50)](https://github.com/Buitreofc) 
+[![GataNina-Li](https://e.top4top.io/p_2690qa7fy0.jpg?whidth=50)](https://github.com/Buitreofc) 
 
