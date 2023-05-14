@@ -9,7 +9,7 @@
 <a href="mailto:centergatabot@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="https://facebook.com/groups/872989990425789/">
+<a href="https://www.facebook.com/profile.php?id=100091780073268">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 <a href="https://www.youtube.com/@gatadios">
