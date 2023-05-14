@@ -38,5 +38,7 @@
 
 
 ### 🌟 CREADOR
-[![Buitreofc](https://github.com/Buitreofc.png?size=100)]
+
+
+[![GataNina-Li](https://github.com/Buitreofc.png?size=100)](https://github.com/GataNina-Li)
 
