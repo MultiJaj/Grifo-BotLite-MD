@@ -30,83 +30,12 @@
 </a>
 </div>
 
-#### DISPONIBLE EN:
-> - [x] TERMUX, REPLIT, WINDOWS, HEROKU, ZIPPONODES, BOXMINE-HOST
 
 
-[`♻️ App Termux`](https://f-droid.org/es/packages/com.termux/)
-### 🌸 INSTALACIÓN AUTOMÁTICA - TERMUX 🌸
-<a href="https://youtu.be/tzM0f_N8BII">
-<img src="https://img.shields.io/badge/Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Tutorial"> </a>
 
-```bash
-termux-setup-storage
-```
-```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget && wget -O - https://raw.githubusercontent.com/GataNina-Li/GataBotLite-MD/master/gatalite.sh | bash
-```
-#### EN CASO QUE QUIERA USAR ESTE MÉTODO DEBE DE EDITAR (Previo a una Bifurcación)
-- [`Repositorio`](https://github.com/GataNina-Li/GataBotLite-MD/blob/14da583cddcf76285988dadb76cfc77f9373d8a8/gatalite.sh#L155)
-- [`Nombre del Bot`](https://github.com/GataNina-Li/GataBotLite-MD/blob/14da583cddcf76285988dadb76cfc77f9373d8a8/gatalite.sh#L159)
-- Actualizar: `https://raw.githubusercontent.com/GataNina-Li/GataBotLite-MD/master/gatalite.sh`
-### 🌼 INSTALACIÓN MANUAL - TERMUX 🌼
-```bash
-termux-setup-storage
-apt update
-apt upgrade
-pkg install -y git nodejs ffmpeg imagemagick yarn
-git clone https://github.com/GataNina-Li/GataBotLite-MD 
-cd GataBotLite-MD
-yarn install
-npm install
-npm start
-```
 
-### 🍁 TERMUX 24/7 🍁 
-> Comandos para realizar una ejecución 24/7
-- INICIAR
-> Use estos comandos dentro de la carpeta GataBotLite-MD
-```bash
-termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
-```
-- DETENER PM2
-> Detener todos los procesos del bot
-```bash
-pm2 stop all && pm2 unstartup
-```
-- REANUDAR 
-> Reanudar los procesos, usar dentro de la carpeta GataBotLite-MD 
-```bash
-pm2 start index.js 
-```
-- VISUALIZAR EL PROCESO
-> Usar dentro de la carpeta GataBotLite-MD para ver en tiempo real
-```bash
-pm2 logs 
-```
-- ELIMINAR PROCESOS PM2
-> Eliminar todos los procesos del bot. Para volver a usar PM2 debe volver a usar los comandos de INICIAR
-```bash
-pm2 delete all
-```
-> **Note** Demanda consumo de RAM y CPU, el resultado mejora mientras las especificaciones del dispositivo sean moderadas
 
-### 🌹 INSTALACIÓN EN REPLIT 🌹
-<a target="_blank" href="https://replit.com/github/GataNina-Li/GataBotLite-MD"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
 
-### 🪷 INSTALACIÓN EN HEROKU 🪷
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GataNina-Li/GataBotLite-MD-Heroku) 
-> 👇 Añada lo siguente al Buildpack: 
-```bash
-heroku/nodejs
-```
-```bash
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-```
-```bash
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
-## 🌻 INSTALACIÓN PARA WINDOWS/VPS/RDP 🌻
 
 * Descargar e instala Git [`Aquí`](https://git-scm.com/downloads)
 * Descargar e instala NodeJS [`Aquí`](https://nodejs.org/en/download)
