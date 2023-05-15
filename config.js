@@ -11,11 +11,10 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰   
 
 global.owner = [
-['12362000021', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true], 
-['972529277518', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
-['972529277026', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true],  
-['59894808483'], ['5214531173598'], ['5214531106422'], ['5492266613038'], ['51914725037'], ['593968585383'], ['5492266466080'], ['595986674310'],
-['584125778026']]
+['523316968621', 'Buitre-OFC ', true], 
+['523316968621', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
+['523316968621', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true],  
+['523316968621']]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -24,13 +23,13 @@ global.prems = []
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰  
-//Agrega el Idioma que quieres que tenga GataBotLite-MD
-//Add the language you want GataBotLite-MD to have
+//Agrega el Idioma que quieres que tenga BuitreBotLite-MD
+//Add the language you want BuitreBotLite-MD to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de GataBot, Ejemplo: es | en | pt...
+global.lenguajeGB = es  //Idioma de BuitreBot, Ejemplo: es | en | pt...
  
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -48,7 +47,7 @@ global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c7
 global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
 global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
-global.lolkeysapi = ['BrunoSobrino']
+global.lolkeysapi = 'SGWN'
 global.itsrose = ['4b146102c4d500809da9d1ff']
 
 global.APIs = { 
@@ -92,54 +91,54 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = 'Buitre Bot '
+global.author = 'Buitre Bot'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['18059196237', 'Gata Dios 💻', 1], 
-['5492266466080', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-['5214531106422', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-['59894808483', '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹', 1],
-['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
+['523316968621', 'Buitre Dios 💻', 1], 
+['523316968621', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+['523316968621', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+['523316968621', '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹', 1],
+['523316968621', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
 global.mail = '' //agrega tú correo
-global.desc = '' //agrega una descripción corta
+global.desc = '' //Buitre BOT md ACTIVO!!
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
 global.vs = '1.0.1'
 global.vsJB = '3.0'
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
-global.yt = 'https://youtube.com/@gatadios'
-global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
-global.ig = 'https://www.instagram.com/gata_dios'
-global.md = 'https://github.com/GataNina-Li/GataBotLite-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789/'
+global.gt = 'Buitre Bot '
+global.yt = 'https://youtube.com/@iambuitre'
+global.yt2 = 'https://youtube.com/@iambuitre'
+global.ig = 'https://youtube.com/@iambuitre'
+global.md = 'https://github.com/Buitreofc/Buitre-BotLite-MD#readme'
+global.fb = 'https://www.facebook.com/profile.php?id=100091780073268'
 
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
-global.nna2 = 'https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76' //Help
-global.nn = 'https://chat.whatsapp.com/EMP0ZURA5kXHG73X5PqMU1' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/DUU638FK74P7KWmRAd4u4J' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/Kt5EXwUhcO8Ay76CIDLs7d' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/K0UCo7igED92q9c1w2DiEH' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/HJLpWS2BDrWCPH6uAUKIRG' //Grupo 5
-global.nnnttt2 = 'https://chat.whatsapp.com/F63pQpKCsWiF2zFXxhYnky' //Grupo 6 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo 7 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/ErnXC51D9lWJtRWOD4stR2' //Grupo 8 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/ErnXC51D9lWJtRWOD4stR2' //Grupo 9 COL
-global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/18059196237' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //UPDATE GATABOT
+global.nna2 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Help
+global.nn = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 5
+global.nnnttt2 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 6 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 7 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 8 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/JIz9Snzgt2X4TUDmTxlnRd' //Grupo 9 COL
+global.paypal = 'https://www.paypal.me/Buitre01'
+global.asistencia = 'http://Wa.me/523316968621' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
+global.wm = 'Buitre Bot Lite 🌻 : Buitre OFC '
+global.igfg = 'Buitre Bot Lite'
 //global.wait = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
 
@@ -175,28 +174,28 @@ global.img3 = 'https://i.imgur.com/01Z8a0a.jpeg' //ft rectangular
 //global.img3 = 'https://i.imgur.com/oUAGYc2.jpg' //prem   //no
 //global.img4 = 'https://i.imgur.com/i0pccuo.jpg' //prem   //no
 
-global.img5 = 'https://i.imgur.com/80uz37R.jpeg'
-global.img6 = 'https://i.imgur.com/3zSvnGY.jpeg'
-global.img7 = 'https://i.imgur.com/WY4r6up.jpeg'
-global.img8 = 'https://i.imgur.com/qCO3RYa.jpeg'
-global.img9 = 'https://i.imgur.com/dWk51FS.jpeg'
+global.img5 = 'https://camo.githubusercontent.com/3b7cf23135ed26b35bbbeed0310949593fba708d6227b2204b26f6c003812473/68747470733a2f2f652e746f7034746f702e696f2f705f323639307161376679302e6a7067'
+global.img6 = 'https://camo.githubusercontent.com/3b7cf23135ed26b35bbbeed0310949593fba708d6227b2204b26f6c003812473/68747470733a2f2f652e746f7034746f702e696f2f705f323639307161376679302e6a7067'
+global.img7 = 'https://camo.githubusercontent.com/3b7cf23135ed26b35bbbeed0310949593fba708d6227b2204b26f6c003812473/68747470733a2f2f652e746f7034746f702e696f2f705f323639307161376679302e6a7067'
+global.img8 = 'https://camo.githubusercontent.com/3b7cf23135ed26b35bbbeed0310949593fba708d6227b2204b26f6c003812473/68747470733a2f2f652e746f7034746f702e696f2f705f323639307161376679302e6a7067'
+global.img9 = 'https://camo.githubusercontent.com/3b7cf23135ed26b35bbbeed0310949593fba708d6227b2204b26f6c003812473/68747470733a2f2f652e746f7034746f702e696f2f705f323639307161376679302e6a7067'
 
-global.img10 = 'https://i.imgur.com/T4NjKMi.jpeg'
-global.img11 = 'https://i.imgur.com/jqyWSlh.jpeg'
-global.img12 = 'https://i.imgur.com/mpCRttm.jpeg'
-global.img13 = 'https://i.imgur.com/O04epJI.jpeg'
-global.img14 = 'https://i.imgur.com/jfbuJRU.jpeg'
-global.img15 = 'https://i.imgur.com/DzqUXkW.jpeg'
+global.img10 = 'https://camo.githubusercontent.com/3b7cf23135ed26b35bbbeed0310949593fba708d6227b2204b26f6c003812473/68747470733a2f2f652e746f7034746f702e696f2f705f323639307161376679302e6a7067'
+global.img11 = 'https://camo.githubusercontent.com/3b7cf23135ed26b35bbbeed0310949593fba708d6227b2204b26f6c003812473/68747470733a2f2f652e746f7034746f702e696f2f705f323639307161376679302e6a7067'
+global.img12 = 'https://camo.githubusercontent.com/3b7cf23135ed26b35bbbeed0310949593fba708d6227b2204b26f6c003812473/68747470733a2f2f652e746f7034746f702e696f2f705f323639307161376679302e6a7067'
+global.img13 = 'https://camo.githubusercontent.com/3b7cf23135ed26b35bbbeed0310949593fba708d6227b2204b26f6c003812473/68747470733a2f2f652e746f7034746f702e696f2f705f323639307161376679302e6a7067'
+global.img14 = 'https://camo.githubusercontent.com/3b7cf23135ed26b35bbbeed0310949593fba708d6227b2204b26f6c003812473/68747470733a2f2f652e746f7034746f702e696f2f705f323639307161376679302e6a7067'
+global.img15 = 'https://camo.githubusercontent.com/3b7cf23135ed26b35bbbeed0310949593fba708d6227b2204b26f6c003812473/68747470733a2f2f652e746f7034746f702e696f2f705f323639307161376679302e6a7067'
 
 //global.img16 = 'https://i.imgur.com/11MRjo4.jpeg' //+18   //no
 
-global.img17 = 'https://i.imgur.com/Y3ZWq7z.jpeg'
-global.img18 = 'https://i.imgur.com/kaUN1Nz.jpeg'
-global.img19 = 'https://i.imgur.com/7yJ22hJ.jpeg'
-global.img20 = 'https://i.imgur.com/qcD353P.jpeg'
-global.img21 = 'https://i.imgur.com/3fJTaX6.jpeg'
+global.img17 = 'https://camo.githubusercontent.com/3b7cf23135ed26b35bbbeed0310949593fba708d6227b2204b26f6c003812473/68747470733a2f2f652e746f7034746f702e696f2f705f323639307161376679302e6a7067'
+global.img18 = 'https://camo.githubusercontent.com/3b7cf23135ed26b35bbbeed0310949593fba708d6227b2204b26f6c003812473/68747470733a2f2f652e746f7034746f702e696f2f705f323639307161376679302e6a7067'
+global.img19 = 'https://camo.githubusercontent.com/3b7cf23135ed26b35bbbeed0310949593fba708d6227b2204b26f6c003812473/68747470733a2f2f652e746f7034746f702e696f2f705f323639307161376679302e6a7067'
+global.img20 = 'https://camo.githubusercontent.com/3b7cf23135ed26b35bbbeed0310949593fba708d6227b2204b26f6c003812473/68747470733a2f2f652e746f7034746f702e696f2f705f323639307161376679302e6a7067'
+global.img21 = 'https://camo.githubusercontent.com/3b7cf23135ed26b35bbbeed0310949593fba708d6227b2204b26f6c003812473/68747470733a2f2f652e746f7034746f702e696f2f705f323639307161376679302e6a7067'
 
-global.img21 = 'https://i.imgur.com/akofqcE.jpeg' //paypal
+global.img21 = 'https://camo.githubusercontent.com/3b7cf23135ed26b35bbbeed0310949593fba708d6227b2204b26f6c003812473/68747470733a2f2f652e746f7034746f702e696f2f705f323639307161376679302e6a7067' //paypal
 
 global.welgata = [ig, yt2, yt2, ig, md, ig, yt, paypal, yt2, yt2, ig, fb]
 global.redesMenu = [nna, nn, nnn, nnnt, nnntt, nnnttt, nnnttt2, nnnttt3, nnnttt4, nnnttt5, md, ig, paypal, yt, asistencia, fb]
