@@ -7,8 +7,8 @@ RUN sudo dnf -y update &&\
 
 RUN git clone https://github.com/GataNina-Li/GataBotLite-MD
 
-WORKDIR /root/GataBotLite-MD
+WORKDIR /root/BuitreBotLite-MD
 
-COPY ./root/GataBotLite-MD
+COPY ./root/BuitreBotLite-MD
 
 CMD ["node", "index.js"]
