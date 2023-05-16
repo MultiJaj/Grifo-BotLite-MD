@@ -75,7 +75,7 @@ let str = `
 ◎ *FACEBOOK*
 *${fb}*\n
 ${lenguajeGB.smsOfc2()}`.trim() 
-await conn.sendFile(m.chat, media, 'gata.jpg', lenguajeGB.smsOfc1() + '\n\n' + str, fkontak)  
+await conn.sendFile(m.chat, media, 'Menu2.jpg', lenguajeGB.smsOfc1() + '\n\n' + str, fkontak)  
 } catch (e) {
 reportError(e)
 }    
