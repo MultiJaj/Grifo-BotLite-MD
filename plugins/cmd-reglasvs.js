@@ -22,6 +22,6 @@ global.pack6 = [
 
  
 
- "https://imgur.com/a/gBrvjDA"
+ "https://ibb.co/YD0x41N"
 
   ]
