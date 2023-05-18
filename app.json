@@ -1,7 +1,7 @@
 {
-  "name": "GataBotLite-MD", 
+  "name": "BuitreBotLite-MD", 
   "description": "Bot ligero para WhatsApp",
-  "repository": "https://github.com/GataNina-Li/GataBotLite-MD",
+  "repository": "https://github.com/Buitreofc/Buitre-BotLite-MD",
   "logo": "https://i.imgur.com/AwlL9kc.jpg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "buildpacks": [
@@ -9,10 +9,10 @@
       "url": "heroku/nodejs"
     },
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "url": "https://github.com/Buitreofc/Buitre-BotLite-MD"
     },
     {
-      "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick"
+      "url": "https://github.com/Buitreofc/Buitre-BotLite-MD"
     }    
  ]
 }
