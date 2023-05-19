@@ -12,17 +12,21 @@ _*PRECIOS*_
 
 • 1 BOT 2USD
 • 2 BOT 4USD
-• 3 BOT 5USD
-• 4 BOT 7USD
-• 5 BOT 8USD
+• 3 BOT 6USD
+• 4 BOT 8USD
+• 5 BOT 10USD
 
 • BOT PERSONALIZADOS 20USD
 
-*si te interesa aqui te dejo mi ko-fi en donar pones los precios que te dije osea la cantidad de bots que quieres https://ko-fi.com/iambuitre por ko-fi puedes pagar por targeta o Paypal✅luego de hacer el pago le envías comprobante a mi creador: http://Wa.me/34604135921 tambien puedes pagar por medio de Paypal: https://www.paypal.me/maicolmurillo152*`, null, {
+*🛒|• +300 COMANDOS INFO AL PRIVADO DE :*
+Envía un mensaje a @iambuitre por WhatsApp. https://wa.me/message/MBTBZMTEGVEHL1
+
+METODO DE PAGO: 
+PAYPAL Y TARJETA DE CRÉDITO O DEBITO`, null, {
 mentions: [a, b]
 })}
 handler.help = ['adquerir']
 handler.tags = ['main', 'fun']
-handler.command = ['adquerir','adquerir']
+handler.command = ['adquerir','adquirir']
 handler.group = true
 export default handler
