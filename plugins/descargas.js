@@ -53,7 +53,7 @@ ${views}
 
 *◎ URL*
 ${url}
-*◜⋯ ⋯ ⋯ ⬇️ A U D I O ⬇️ ⋯ ⋯ ⋯◞*`.trim()
+*◜⋯ ⋯ ⋯ ⬇️ A U D I O ⬇️ ⋯ ⋯ ⋯◞*\nENVIANDO AUDIO ESPERE....`.trim()
 await conn.sendFile(m.chat, thumbnail, 'error.jpg', video, m)    
 q = '128kbps'
 v = url
